@@ -1,0 +1,56 @@
+
+
+body {
+	background-color: #8cbe4f;
+	font-family: 'myriad pro', sans-serif;
+	color: #fff;
+	font-size: 14px;
+}
+
+#content {
+	margin: 0 auto;
+	width: 40em;
+	margin-top: 150px;	
+
+}
+
+#main {
+	background-image: url('images/newbg2.png');
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 95%;
+	height: 300px;
+	margin:0 auto;
+}
+
+.logo {
+	font-size: 35px;
+	display:inline;
+	vertical-align: top;
+}
+
+p.newQuiz {
+	display: inline-block;
+	text-align: right;
+	margin-left: 50%;
+	vertical-align: top;
+	margin-top: 0px;
+}
+
+#bottom {
+	width: 95%;
+}
+
+.answerContainer {
+	width: 300px;
+	margin-left: 45%;
+	padding-top: 15%;
+}
+
+.start {
+	width: 125px;
+	height: auto;
+	margin-top: 25%;
+	margin-left: 20%;
+	
+}
